@@ -7,4 +7,5 @@ log/*.log
 log/*.log.[0-9]
 asserts/photoshop/
 asserts/videos
+Junk2.txt
 !asserts/videos/tour_*.mp4
